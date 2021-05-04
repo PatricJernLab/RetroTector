@@ -15,7 +15,7 @@ Quick start:
 • Update full path to working directory in:
   ReTe1.0.1/Database/Configuration.txt
   
-• Start command (Mac/Unix) for RetroTector in the 'ReTe1.0.1/' directory:
+• Start command (Mac/Unix) for RetroTector in the 'ReTe1.0.1/' directory:\r
   java -Xmx1024m -classpath "RetroTector101.jar:." retrotector/RetroTector
   
 • See the included html documentation for details:
