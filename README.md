@@ -23,7 +23,17 @@ Quick start:
 • See the included html documentation for details:
 
   ReTe1.0.1/Documentation/RetroTector.html
-	
+
+
+• Start analyzing: 
+1. Place the fasta file(s) in ~/ReTe1.0.1/Workplace/NewDNA/
+2. Run "SweepDNA" from the RetroTector GUI "Execute" dropdown menu to process the fasta file(s) and generate folder(s) with script files in ~/ReTe1.0.1/Workplace/
+3. Process all scripts automatically by navigating to  ~/ReTe1.0.1//Workplace/ in RetroTector GUI and run "SweepScripts" from the dropdown menu.
+     This will process LTRID, ORFID and RetroVID in turn to generate results files.
+4. Navigate to the results folder(s) in RetroTector GUI and use "Choose script" to select the summarized results file "001SelectedChains.txt"
+5. Then "Execute script" in RetroTector GUI to view the results graphics
+
+  	
 ----
 Please cite RetroTector in publications:
 
